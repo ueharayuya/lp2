@@ -544,6 +544,8 @@ footer {
 }
 
 @media screen and (max-width: 540px) {
+
+
   .font1 p {
     font-size: 30px;
   }
@@ -628,6 +630,15 @@ footer {
   .pages ul li a {
     font-size: 10px;
   }
+
+  .news .txt {
+    padding: 40px;
+  }
+
+  .how_to {
+    width: 90%;
+  }
+
 }
 
 @media screen and (max-width: 480px) {
